@@ -11,3 +11,4 @@ Thumbs.db
 # Конфигурации с секретами
 config/db.php
 .env
+deploy.zip
